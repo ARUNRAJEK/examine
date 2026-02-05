@@ -1,0 +1,6 @@
+Question,Answer,Marks
+What is Python?,"Python is an easy to write and easy to understand programming language used for software development, data science, and automation.",5
+Define Variable.,A variable is a named memory location used to store data values that can change during program execution.,2
+Explain OOP.,"Object Oriented Programming is a programming paradigm based on objects and classes. It supports concepts like encapsulation, inheritance, polymorphism, and abstraction.",5
+What is Database?,"A database is an organized collection of data that allows efficient storage, retrieval, and management of information.",2
+Explain Machine Learning.,Machine Learning is a branch of artificial intelligence that enables computers to learn from data and improve performance without being explicitly programmed.,5
