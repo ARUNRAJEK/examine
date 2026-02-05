@@ -1,4 +1,4 @@
 groq
 pandas
 dotenv
-streamlit
+
